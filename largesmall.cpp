@@ -17,7 +17,7 @@ small=arr[i];
 if(arr[i]>large)
 large=arr[i];
 }
-cout<<"Largest element is : "<<large<<endl;
 cout<<"Smallest element is : "<<small<<endl;
+ cout<<"Largest element is : "<<large<<endl;
 return 0;
 }
