@@ -3,12 +3,12 @@ using namespace std;
 int main()
 {
 string s;
-int n;
+int k;
 cout<<"Enter the string : "<<endl;
 getline(cin,s);
 cout<<"Enter the number of times the string need to be printed : "<<endl;
-cin>>n;
-for(int i=0;i<n;++i)
+cin>>k;
+for(int i=0;i<k;++i)
 {
 cout<<s<<endl;
 }
